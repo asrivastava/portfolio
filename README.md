@@ -31,7 +31,7 @@ Eventually, someone noticed I could solve problems without asking Stack Overflow
 Suddenly, I wasn’t just fixing bugs—I was reviewing other people’s bugs.
 I also learned the ancient art of saying, “It depends.”<br/>
 ✈️ **Plot Twist**: Moved to the US<br/>
-Packed my bags, crossed an ocean, and discovered that even in new time zones, production issues still find you.
+Packed my bags, crossed an ocean, and discovered that even in new time zones, production issues still find you.<br/>
 🧑‍🏫 **Level 4**: Software Consultant<br>
 Now I was directly working with clients—translating tech jargon into human language, and sometimes the other way around. Bonus points for surviving meetings where someone says, “Should be easy, right?”<br/>
 🏗️ **Level 5**: Application Architect<br/>
